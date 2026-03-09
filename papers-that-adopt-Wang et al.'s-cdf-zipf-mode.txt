@@ -262,4 +262,5 @@ As of March 2026, a total of 245 published papers have cited and adopted Wang et
 8.1   [AsiaCCS'17]     "Understanding Human-Chosen PINs: Characteristics, Distribution and Security", https://dl.acm.org/doi/abs/10.1145/3052973.3053031 
 
 9 Password management
-9.1   [IEEE S&P'24]    "Security Analysis of Master-Password-Protected Password Management Protocols", https://www.researchgate.net/profile/Yihe-Duan-3/...
+9.1   [IEEE S&P'25]    "Security Analysis of Master-Password-Protected Password Management Protocols", https://www.researchgate.net/profile/Yihe-Duan-3/...
+
