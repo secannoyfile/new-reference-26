@@ -1,4 +1,4 @@
-截至2026年3月，已有252篇已发表论文引用并采用了Wang等人提出的CDF-Zipf模型（或PDF-Zipf模型）。这些论文按研究领域可划分为八大类：口令破解、基于口令的密码协议、口令策略、口令泄露检测、口令哈希算法、口令加密、口令特征分析及PIN码分析。具体如下：
+截至2026年3月，已有252篇已发表论文引用并采用了Wang等提出的CDF-Zipf模型（或PDF-Zipf模型）。这些论文按研究领域可划分为八大类：口令破解、基于口令的密码协议、口令策略、口令泄露检测、口令哈希算法、口令加密、口令特征分析及PIN码分析。具体如下：
 
 1 Password cracking
 1.1   [IEEE S&P'25]    "Security Analysis of Master-Password-Protected Password Management Protocols", https://www.researchgate.net/profile/Yihe-Duan-3/
