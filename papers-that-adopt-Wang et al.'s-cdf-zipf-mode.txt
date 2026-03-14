@@ -1,6 +1,6 @@
-截至2026年3月，已有252篇已发表论文引用并采用了Wang等提出的CDF-Zipf模型（或PDF-Zipf模型）。这些论文按研究领域可划分为七大类：口令破解、口令密码协议、口令组成策略、口令泄露检测、口令哈希算法、口令加密及口令特征分析。具体如下：
+截至2026年3月，已有252篇已发表论文引用并采用了Wang等提出的CDF-Zipf模型（或PDF-Zipf模型）。这些论文按研究领域可划分为七大类：口令猜测、口令密码协议、口令组成策略、口令泄露检测、口令哈希算法、口令加密及口令特征分析。具体如下
 
-1 口令破解
+1 口令猜测
 1.1   [IEEE TIFS'20]   "Centralized vs decentralized targeted brute-force attacks: Guessing with side-information", https://ieeexplore.ieee.org/document/9127480 
 1.2   [IEEE TIFS'19]   "Why Botnets Work: Distributed Brute-force Attacks Need No Synchronization", https://ieeexplore.ieee.org/abstract/document/8629000 
 1.3   [RAID'24]        "Prob-Hashcat: Accelerating Probabilistic Password Guessing with Hashcat by Hundreds of Times", https://dl.acm.org/doi/abs/10.1145/3678890.3678919 
