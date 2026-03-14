@@ -1,6 +1,6 @@
-截至2026年3月，已有252篇已发表论文引用并采用了Wang等提出的CDF-Zipf模型（或PDF-Zipf模型）。这些论文按研究领域可划分为八大类：口令破解、基于口令的密码协议、口令策略、口令泄露检测、口令哈希算法、口令加密、口令特征分析及PIN码分析。具体如下：
+截至2026年3月，已有252篇已发表论文引用并采用了Wang等提出的CDF-Zipf模型（或PDF-Zipf模型）。这些论文按研究领域可划分为七大类：口令破解、基于口令的密码协议、口令策略、口令泄露检测、口令哈希算法、口令加密及口令特征分析。具体如下：
 
-1 Password cracking
+1 口令破解
 1.1   [IEEE S&P'25]    "Security Analysis of Master-Password-Protected Password Management Protocols", https://www.researchgate.net/profile/Yihe-Duan-3/
 1.2   [IEEE TIFS'20]   "Centralized vs decentralized targeted brute-force attacks: Guessing with side-information", https://ieeexplore.ieee.org/document/9127480 
 1.3   [IEEE TIFS'19]   "Why Botnets Work: Distributed Brute-force Attacks Need No Synchronization", https://ieeexplore.ieee.org/abstract/document/8629000 
@@ -22,7 +22,7 @@
 1.19  [密码学报]        "口令猜测研究进展", http://www.jcr.cacrnet.org.cn/CN/10.13868/j.cnki.jcr.000670
 1.20  [计算机研究与发展] "参数化混合口令猜测方法", https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.20210456
 
-2 Password-based cryptographic protocols
+2 基于口令的密码协议
 2.1   [ACM CCS'19]     "How to (not) Share a Password: Privacy Preserving Protocols for Finding Heavy Hitters with Adversarial Behavior", https://dl.acm.org/doi/abs/10.1145/3319535.3363204 
 2.2   [IEE TIFS'25]    "Healthcare Security: Post-Quantum Continuous Authentication With Behavioral Biometrics Using Vector Similarity Search", https://ieeexplore.ieee.org/abstract/document/10844884 
 2.3   [IEEE TITS'25]   "An Intelligent Blockchain-Enabled Authentication Protocol for Transportation Cyber-Physical Systems", https://ieeexplore.ieee.org/abstract/document/10897323/keywords#keywords 
@@ -229,12 +229,12 @@
 2.204 [软件学报]        "基于雾计算的智能医疗三方认证与密钥协商协议", https://jos.org.cn/jos/article/abstract/6514
 
 
-3 Password policy
+3 口令策略
 3.1   [IEEE TIFS'22]   "Dynamically Generate Password Policy via Zipf Distribution", https://ieeexplore.ieee.org/abstract/document/9715109 
 3.2   [COSE'24]        "Decoding developer password patterns: A comparative analysis of password extraction and selection practices", https://www.sciencedirect.com/science/article/pii/S0167404824002797 
 3.3   [J. Cybersecurity'23] "A Generator Framework for Password Policy Based on Frequency and Entropy", http://www.journalofcybersec.com/CN/Y2023/V1/I2/73 
 
-4 Password-leakage detection
+4 口令泄露检测
 4.1   [IEEE S&P'22]    "How to Attack and Generate Honeywords", https://www.computer.org/csdl/proceedings-article/sp/2022/131600a489/1wKCexo0aoE 
 4.2   [USENIX SEC'22]  "Might I Get Pwned: A Second Generation Compromised Credential Checking Service", https://pages.cs.wisc.edu/~chatterjee/papers/usenix22-pal.pdf 
 4.3   [ACM CSUR'22]    "Honeyword-based Authentication Techniques for Protecting Passwords: A Survey", https://dl.acm.org/doi/abs/10.1145/3552431 
@@ -242,30 +242,27 @@
 4.5   [NDSS'18]        "A Security Analysis of Honeyword", http://wangdingg.weebly.com/uploads/2/0/3/6/20366987/ndss18final_fullv9.pdf 
 4.6   [Arxiv'23]       "Reveal the Mathematical Structures of Honeyword Security Metrics", https://arxiv.org/abs/2311.10960 
 
-5 Password hashing algorithms/online throttling
+5 口令哈希算法
 5.1   [PETS'22]        "DALock: Password Distribution Aware Throttling", https://wayworkshop.org/2019/papers/way2019-blocki.pdf 
 5.2   [IEEE S&P'18]    "On the Economics of Offline Password Cracking",  https://ieeexplore.ieee.org/abstract/document/8418642/ 
 
-6 Password encryption
+6 口令加密
 6.1   [IEEE S&P'15]    "GenoGuard: Protecting Genomic Data against Brute-Force Attacks", https://ieeexplore.ieee.org/abstract/document/7163041/ 
 6.2   [IEEE TIFS'24]   "QPASE: Quantum-Resistant Password-Authenticated Searchable Encryption for Cloud Storage", https://ieeexplore.ieee.org/abstract/document/10458707 
 6.3   [JISA'19]        "Freestyle, a Randomized Version of ChaCha for Resisting Offline Brute-Force and Dictionary Attacks", https://www.sciencedirect.com/science/article/pii/S2214212618307634 
 
-7 Password characteristic analysis
+7 口令特征分析
 7.1   [USENIX SEC'24]  "The Impact of Exposed Passwords on Honeyword Efficacy", https://www.usenix.org/system/files/usenixsecurity24-huang-zonghao.pdf 
 7.2   [ACM SENSYS'24]  "Behaviors Speak More: Achieving User Authentication Leveraging Facial Activities via mmWave Sensing", https://dl.acm.org/doi/abs/10.1145/3666025.3699330 
 7.3   [IEEE S&P'23]    "Towards a Rigorous Statistical Analysis of Empirical Password Datasets", https://ieeexplore.ieee.org/abstract/document/10179431 
 7.4   [USENIX SEC'19]  "Birthday, Name and Bifacial-Security: Understanding Passwords of Chinese Web Users", https://www.usenix.org/system/files/sec19-wang-ding.pdf 
 7.5   [IEEE TIFS'24]   "A Novel Evaluation Framework for Biometric Security: Assessing Guessing Difficulty as a Metric", https://ieeexplore.ieee.org/abstract/document/10669108 
-7.6   [IEEE IoT J'24]  "Special Characters Usage and Its Effect on Password Security", https://ieeexplore.ieee.org/abstract/document/10439974/keywords#keywords 
-7.7   [IEEE TIFS'23]   "New Observations on Zipf's Law in Passwords", https://ieeexplore.ieee.org/document/97777142.190 
-7.8   [SecureComm'17]  "Exploring the Network of Real-World Passwords: Visualization and Estimation", https://link.springer.com/chapter/10.1007/978-3-319-78813-5_8 
-7.9   [JISA'22]        "A Large-scale Analysis of Wi-Fi Passwords", https://www.sciencedirect.com/science/article/pii/S2214212622000722 
-7.10  [CVHT'21]        "Zipf's Law Analysis on the Leaked Iranian Users' Passwords", https://link.springer.com/article/10.1007/s11416-021-00397-9 
-7.11  [COSE'20]        "Passphrase and Keystroke Dynamics Authentication: Usable Security",  https://www.sciencedirect.com/science/article/pii/S0167404820302017 
-7.12  [Cybersecurity'26] "Security and characteristics of Japanese user-created passwords: a comprehensive analysis"，https://link.springer.com/article/10.1186/s42400-025-00412-2 
-7.13  [计算机研究与发展] "口令安全研究进展", https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2016.
-
-8 PINs
-8.1   [AsiaCCS'17]     "Understanding Human-Chosen PINs: Characteristics, Distribution and Security", https://dl.acm.org/doi/abs/10.1145/3052973.3053031 
-
+7.6   [AsiaCCS'17]     "Understanding Human-Chosen PINs: Characteristics, Distribution and Security", https://dl.acm.org/doi/abs/10.1145/3052973.3053031 
+7.7   [IEEE IoT J'24]  "Special Characters Usage and Its Effect on Password Security", https://ieeexplore.ieee.org/abstract/document/10439974/keywords#keywords 
+7.8   [IEEE TIFS'23]   "New Observations on Zipf's Law in Passwords", https://ieeexplore.ieee.org/document/97777142.190 
+7.9   [SecureComm'17]  "Exploring the Network of Real-World Passwords: Visualization and Estimation", https://link.springer.com/chapter/10.1007/978-3-319-78813-5_8 
+7.10   [JISA'22]        "A Large-scale Analysis of Wi-Fi Passwords", https://www.sciencedirect.com/science/article/pii/S2214212622000722 
+7.11  [CVHT'21]        "Zipf's Law Analysis on the Leaked Iranian Users' Passwords", https://link.springer.com/article/10.1007/s11416-021-00397-9 
+7.12  [COSE'20]        "Passphrase and Keystroke Dynamics Authentication: Usable Security",  https://www.sciencedirect.com/science/article/pii/S0167404820302017 
+7.13  [Cybersecurity'26] "Security and characteristics of Japanese user-created passwords: a comprehensive analysis"，https://link.springer.com/article/10.1186/s42400-025-00412-2 
+7.14  [计算机研究与发展] "口令安全研究进展", https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.2016.
