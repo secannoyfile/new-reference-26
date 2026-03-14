@@ -1,4 +1,4 @@
-截至2026年3月，已有252篇已发表论文引用并采用了Wang等提出的CDF-Zipf模型（或PDF-Zipf模型）。这些论文按研究领域可划分为七大类：口令破解、基于口令的密码协议、口令策略、口令泄露检测、口令哈希算法、口令加密及口令特征分析。具体如下：
+截至2026年3月，已有252篇已发表论文引用并采用了Wang等提出的CDF-Zipf模型（或PDF-Zipf模型）。这些论文按研究领域可划分为七大类：口令破解、口令密码协议、口令组成策略、口令泄露检测、口令哈希算法、口令加密及口令特征分析。具体如下：
 
 1 口令破解
 1.1   [IEEE TIFS'20]   "Centralized vs decentralized targeted brute-force attacks: Guessing with side-information", https://ieeexplore.ieee.org/document/9127480 
@@ -21,7 +21,7 @@
 1.18  [密码学报]        "口令猜测研究进展", http://www.jcr.cacrnet.org.cn/CN/10.13868/j.cnki.jcr.000670
 1.19  [计算机研究与发展] "参数化混合口令猜测方法", https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.20210456
 
-2 基于口令的密码协议
+2 口令密码协议
 2.1   [IEEE S&P'25]    "Security Analysis of Master-Password-Protected Password Management Protocols", https://www.researchgate.net/profile/Yihe-Duan-3/
 2.2   [ACM CCS'19]     "How to (not) Share a Password: Privacy Preserving Protocols for Finding Heavy Hitters with Adversarial Behavior", https://dl.acm.org/doi/abs/10.1145/3319535.3363204 
 2.3   [IEE TIFS'25]    "Healthcare Security: Post-Quantum Continuous Authentication With Behavioral Biometrics Using Vector Similarity Search", https://ieeexplore.ieee.org/abstract/document/10844884 
@@ -229,7 +229,7 @@
 2.205 [软件学报]        "基于雾计算的智能医疗三方认证与密钥协商协议", https://jos.org.cn/jos/article/abstract/6514
 
 
-3 口令策略
+3 口令组成策略
 3.1   [IEEE TIFS'22]   "Dynamically Generate Password Policy via Zipf Distribution", https://ieeexplore.ieee.org/abstract/document/9715109 
 3.2   [COSE'24]        "Decoding developer password patterns: A comparative analysis of password extraction and selection practices", https://www.sciencedirect.com/science/article/pii/S0167404824002797 
 3.3   [J. Cybersecurity'23] "A Generator Framework for Password Policy Based on Frequency and Entropy", http://www.journalofcybersec.com/CN/Y2023/V1/I2/73 
