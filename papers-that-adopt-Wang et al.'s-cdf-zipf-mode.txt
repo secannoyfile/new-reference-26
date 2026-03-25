@@ -1,25 +1,26 @@
-截至2026年3月，已有252篇已发表论文引用并采用了Wang等提出的CDF-Zipf模型（或PDF-Zipf模型）。这些论文按研究领域可划分为七大类：口令猜测、口令密码协议、口令组成策略、口令泄露检测、口令哈希算法、口令加密及口令特征分析。具体如下：
+截至2026年3月，已有253篇已发表论文引用并采用了Wang等提出的CDF-Zipf模型（或PDF-Zipf模型）。这些论文按研究领域可划分为七大类：口令猜测、口令密码协议、口令组成策略、口令泄露检测、口令哈希算法、口令加密及口令特征分析。具体如下：
 
 1 口令猜测
-1.1   [IEEE TIFS'20]   "Centralized vs decentralized targeted brute-force attacks: Guessing with side-information", https://ieeexplore.ieee.org/document/9127480 
-1.2   [IEEE TIFS'19]   "Why Botnets Work: Distributed Brute-force Attacks Need No Synchronization", https://ieeexplore.ieee.org/abstract/document/8629000 
-1.3   [RAID'24]        "Prob-Hashcat: Accelerating Probabilistic Password Guessing with Hashcat by Hundreds of Times", https://dl.acm.org/doi/abs/10.1145/3678890.3678919 
-1.4   [IEEE TIFS'24]   "GuessFuse: Hybrid Password Guessing With Multi-View", https://ieeexplore.ieee.org/abstract/document/10466588 
-1.5   [IEEE TIFS'24]   "Privacy-Preserving Password Cracking: How a Third Party Can Crack Our Password Hash Without Learning the Hash Value or the Cleartext", https://ieeexplore.ieee.org/abstract/document/10409543 
-1.6   [ICICS'22]       "Improving Deep Learning Based Password Guessing Models Using Pre-processing", https://link.springer.com/chapter/10.1007/978-3-031-15777-6_10 
-1.7   [ICICS'21]       "Studies of Keyboard Patterns in Passwords: Recognition, Characteristics and Strength Evolution", https://link.springer.com/chapter/10.1007/978-3-030-86890-1_9 
-1.8   [IEEE TIFS'21]   "Leet Usage and Its Effect on Password Security", https://ieeexplore.ieee.org/abstract/document/9316928 
-1.9  [IEEE TIFS'20]   "TransPCFG: Transferring the Grammars from Short Passwords to Guess Long Passwords Effectively", https://ieeexplore.ieee.org/abstract/document/9121288 
-1.10  [HPSC'20]        "PassGAN Based Honeywords System for Machine-Generated Passwords Database", https://ieeexplore.ieee.org/abstract/document/9123038 
-1.11  [CSAE'20]        "Trie Tree Probabilistic Password Cracking Method Based on FPGA", https://dl.acm.org/doi/pdf/10.1145/3424978.3425021 
-1.12  [FGCS'24]        "Password cracking using chunk similarity", https://www.sciencedirect.com/science/article/abs/pii/S0167739X23003382 
-1.13  [JISA'23]        "Using language-specific input methods and pronunciation rules to improve the guesses of passwords", https://www.sciencedirect.com/science/article/pii/S2214212623001722 
-1.14  [COSE'22]        "Cognitively Reconfigurable Mimic-Based Heterogeneous Password Recovery System", https://www.sciencedirect.com/science/article/pii/S0167404822000669 
-1.15  [Supercomput'24] "An efficient heterogeneous parallel password recovery system on MT-3000", https://link.springer.com/article/10.1007/s11227-024-06532-9 
-1.16  [Cybersecurity'24]"Honey password vaults tolerating leakage of both personally identifiable information and passwords", https://link.springer.com/article/10.1186/s42400-024-00236-6#citeas 
-1.17  [IEEE CyberC'18] "Algorithm to Generate Password Structure Dictionary Based on Gene Bank", https://ieeexplore.ieee.org/abstract/document/8644557 
-1.18  [密码学报]        "口令猜测研究进展", http://www.jcr.cacrnet.org.cn/CN/10.13868/j.cnki.jcr.000670
-1.19  [计算机研究与发展] "参数化混合口令猜测方法", https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.20210456
+1.1   [ACM CCS'21]     "Chunk-Level Password Guessing: Towards Modeling Refined Password Composition Representations", https://dl.acm.org/doi/10.1145/3460120.3484743
+1.2   [IEEE TIFS'20]   "Centralized vs decentralized targeted brute-force attacks: Guessing with side-information", https://ieeexplore.ieee.org/document/9127480 
+1.3   [IEEE TIFS'19]   "Why Botnets Work: Distributed Brute-force Attacks Need No Synchronization", https://ieeexplore.ieee.org/abstract/document/8629000 
+1.4   [RAID'24]        "Prob-Hashcat: Accelerating Probabilistic Password Guessing with Hashcat by Hundreds of Times", https://dl.acm.org/doi/abs/10.1145/3678890.3678919 
+1.5   [IEEE TIFS'24]   "GuessFuse: Hybrid Password Guessing With Multi-View", https://ieeexplore.ieee.org/abstract/document/10466588 
+1.6   [IEEE TIFS'24]   "Privacy-Preserving Password Cracking: How a Third Party Can Crack Our Password Hash Without Learning the Hash Value or the Cleartext", https://ieeexplore.ieee.org/abstract/document/10409543 
+1.7   [ICICS'22]       "Improving Deep Learning Based Password Guessing Models Using Pre-processing", https://link.springer.com/chapter/10.1007/978-3-031-15777-6_10 
+1.8   [ICICS'21]       "Studies of Keyboard Patterns in Passwords: Recognition, Characteristics and Strength Evolution", https://link.springer.com/chapter/10.1007/978-3-030-86890-1_9 
+1.9   [IEEE TIFS'21]   "Leet Usage and Its Effect on Password Security", https://ieeexplore.ieee.org/abstract/document/9316928 
+1.10  [IEEE TIFS'20]   "TransPCFG: Transferring the Grammars from Short Passwords to Guess Long Passwords Effectively", https://ieeexplore.ieee.org/abstract/document/9121288 
+1.11  [HPSC'20]        "PassGAN Based Honeywords System for Machine-Generated Passwords Database", https://ieeexplore.ieee.org/abstract/document/9123038 
+1.12  [CSAE'20]        "Trie Tree Probabilistic Password Cracking Method Based on FPGA", https://dl.acm.org/doi/pdf/10.1145/3424978.3425021 
+1.13  [FGCS'24]        "Password cracking using chunk similarity", https://www.sciencedirect.com/science/article/abs/pii/S0167739X23003382 
+1.14  [JISA'23]        "Using language-specific input methods and pronunciation rules to improve the guesses of passwords", https://www.sciencedirect.com/science/article/pii/S2214212623001722 
+1.15  [COSE'22]        "Cognitively Reconfigurable Mimic-Based Heterogeneous Password Recovery System", https://www.sciencedirect.com/science/article/pii/S0167404822000669 
+1.16  [Supercomput'24] "An efficient heterogeneous parallel password recovery system on MT-3000", https://link.springer.com/article/10.1007/s11227-024-06532-9 
+1.17  [Cybersecurity'24]"Honey password vaults tolerating leakage of both personally identifiable information and passwords", https://link.springer.com/article/10.1186/s42400-024-00236-6#citeas 
+1.18  [IEEE CyberC'18] "Algorithm to Generate Password Structure Dictionary Based on Gene Bank", https://ieeexplore.ieee.org/abstract/document/8644557 
+1.19  [密码学报]        "口令猜测研究进展", http://www.jcr.cacrnet.org.cn/CN/10.13868/j.cnki.jcr.000670
+1.20  [计算机研究与发展] "参数化混合口令猜测方法", https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.20210456
 
 2 口令密码协议
 2.1   [IEEE S&P'25]    "Security Analysis of Master-Password-Protected Password Management Protocols", https://www.researchgate.net/profile/Yihe-Duan-3/
