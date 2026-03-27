@@ -90,7 +90,7 @@
 2.65  [AEJ'25]         "Provably secure biometric and PUF-based authentication for roaming service in global mobility network", https://www.sciencedirect.com/science/article/pii/S1110016824014947 
 2.66  [Nature report'25] "Provably secure and lightweight blockchain based cross hospital authentication scheme for IoMT-based healthcare", https://www.nature.com/articles/s41598-025-90219-5.pdf 
 2.67  [Mathematics'25] "Blockchain-Based Secure Authentication Protocol for Fog-Enabled IoT Environments", https://www.mdpi.com/2227-7390/13/13/2142 
-2.68  [IEEE IoT J'24]  "A Privacy-Preserving Authentication Protocol for Electric Vehicle Battery Swapping Based on Intelligent Blockchain", https://ieeexplore.ieee.org/abstract/document/10423784 
+2.68  [IEEE IoTJ'24]   "A Privacy-Preserving Authentication Protocol for Electric Vehicle Battery Swapping Based on Intelligent Blockchain", https://ieeexplore.ieee.org/abstract/document/10423784 
 2.69  [TETT'24]        "A probably secure biometric-based authentication and key agreement scheme for Internet of Drones", https://onlinelibrary.wiley.com/doi/abs/10.1002/ett.4893 
 2.70  [JSA'24]         "A portable blind cloud storage scheme against compromised servers", https://www.sciencedirect.com/science/article/pii/S1383762123002163 
 2.71  [ESWA'24]        "A blockchain-enabled privacy-preserving authentication management protocol for Internet of Medical Things", https://www.sciencedirect.com/science/article/pii/S0957417423018316 
@@ -224,7 +224,7 @@
 2.199 [IEEE IoTJ'26]   "Robust and Lightweight User Authentication Scheme Using Deep Learning-Based Cancelable Biometrics in Smart Home Environments"，https://ieeexplore.ieee.org/document/11359703 
 2.200 [IEEE IoTJ'26]   "CoSMT-LC: Secure Collaborative Marine Traffic Management using Lightweight Cryptography"，https://ieeexplore.ieee.org/document/11381414 
 2.201 [Soft Computing'26] "Quantum-secure lightweight fuzzy extractor based user authentication scheme for internet of medical things"，https://link.springer.com/article/10.1007/s00500-025-11021-z 
-2.202 [2026]           "Lightweight anonymous authentication and key agreement protocol resistant to desynchronization attacks"，https://link.springer.com/article/10.1186/s42400-025-00536-5 
+2.202 [Cybersecurity'26]  "Lightweight anonymous authentication and key agreement protocol resistant to desynchronization attacks"，https://link.springer.com/article/10.1186/s42400-025-00536-5 
 2.203 [计算机学报]      "可证明安全的抗量子高效口令认证密钥交换协议", http://cjc.ict.ac.cn/online/onlinepaper/yaq-20221116124945.pdf
 2.204 [通信学报]        "可证明安全的抗量子两服务器口令认证密钥交换协议", https://www.joconline.com.cn/zh/article/doi/10.11959/j.issn.1000-436x.2022052/
 2.205 [软件学报]        "基于雾计算的智能医疗三方认证与密钥协商协议", https://jos.org.cn/jos/article/abstract/6514
@@ -263,7 +263,7 @@
 7.7   [IEEE IoT J'24]  "Special Characters Usage and Its Effect on Password Security", https://ieeexplore.ieee.org/abstract/document/10439974/keywords#keywords 
 7.8   [IEEE TIFS'23]   "New Observations on Zipf's Law in Passwords", https://ieeexplore.ieee.org/document/97777142.190 
 7.9   [SecureComm'17]  "Exploring the Network of Real-World Passwords: Visualization and Estimation", https://link.springer.com/chapter/10.1007/978-3-319-78813-5_8 
-7.10   [JISA'22]        "A Large-scale Analysis of Wi-Fi Passwords", https://www.sciencedirect.com/science/article/pii/S2214212622000722 
+7.10  [JISA'22]        "A Large-scale Analysis of Wi-Fi Passwords", https://www.sciencedirect.com/science/article/pii/S2214212622000722 
 7.11  [CVHT'21]        "Zipf's Law Analysis on the Leaked Iranian Users' Passwords", https://link.springer.com/article/10.1007/s11416-021-00397-9 
 7.12  [COSE'20]        "Passphrase and Keystroke Dynamics Authentication: Usable Security",  https://www.sciencedirect.com/science/article/pii/S0167404820302017 
 7.13  [Cybersecurity'26] "Security and characteristics of Japanese user-created passwords: a comprehensive analysis"，https://link.springer.com/article/10.1186/s42400-025-00412-2 
